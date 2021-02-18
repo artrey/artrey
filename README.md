@@ -1,10 +1,6 @@
-### Hi there 👋
+### 👋
 
 <!--
-**artrey/artrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artrey&show_icons=true&include_all_commits=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrey" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=artrey&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-h=15" />
+</div>
